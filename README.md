@@ -2,8 +2,10 @@
    <h1><i>Urban Closet🕊️</i></h1>
 </div>
 
-![Screenshot of the homepage]()
-![Screenshot of the product page](images/product-page.jpg)
+##  Login Page 
+![Screenshot of the homepage](img/loginpagess.png) <br>
+## Home Page
+![Screenshot of the product page](img/homepagess.png)
 
 ## Table of Contents
 - [Overview](#overview)
