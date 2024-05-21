@@ -1,5 +1,6 @@
-
-<div align="center"> <h2 style="color: purple;"><i><h2>Urban Closet🕊️</h2></i></h2></div>
+<div align="center" style="color: purple;">
+   <h1><i>Urban Closet🕊️</i></h1>
+</div>
 
 ## Table of Contents
 - [Overview](#overview)
