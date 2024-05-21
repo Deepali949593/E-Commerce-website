@@ -7,10 +7,8 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ## Overview
 This is a front-end implementation of an e-commerce website built using HTML, CSS, and JavaScript. The project provides a responsive and interactive user interface for browsing and purchasing products. The back end is yet to be developed, which will handle user authentication, product management, order processing, and other functionalities.
