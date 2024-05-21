@@ -1,0 +1,82 @@
+.product-details{
+    width: 100%;
+    padding: 60px 10vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-head-of-products{
+    color:black;
+    padding-top:48px;
+    text-align: center;
+}
+
+.colored-word-bigger-size{
+    color: purple;
+    font-size:35px;
+}
+
+.bg-images{
+
+    position: relative;
+    background-image: url('../img/women\ apparel\ 4.jpg ');
+    background-size: cover;
+    
+    bottom:100%;
+    width: 100%;
+    height: calc(100vh - 50px);
+    background-color: grey;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: contain;
+}
+
+.bg-images img{
+    width:800px;
+    object-fit: cover;
+  }
+  .bg-images{
+    background-color: #f3f3f3;
+  }
+.msg-ps{
+    color:black;
+    text-align: center;
+}
+
+.colored-word{
+    color:purple;
+
+}
+.product-images{
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    background: #fff;
+    border-radius: 5px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    height: 100px;
+    grid-gap: 10px;
+    padding: 10px;
+}
+
+.product-images img.active{
+    opacity: 0.5;
+}
+
+.last-hr-of-product{
+    border: 1px solid black;
+    width:20%;
+  }
+
+  .sry-msg{
+    color:black;
+    text-align:center;
+    padding-bottom:10px;
+    height: 30px;
+    
+  } 
